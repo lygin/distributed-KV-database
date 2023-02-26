@@ -1,5 +1,3 @@
-aut : HUST-李俊
-
 ### Overview
 
 ---
